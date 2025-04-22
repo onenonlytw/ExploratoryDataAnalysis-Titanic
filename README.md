@@ -26,7 +26,7 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** to un
 
 ## 📁 Project Structure
 ```
-├── Titanic EDA.ipynb              # Jupyter Notebook file
+├── Titanic_EDA.ipynb              # Jupyter Notebook file
 ├── TITANIC EDA                    # EDA presentation slides (optional)
 ├── titanic.xls                    # Dataset
 └── README.md                      # This file
