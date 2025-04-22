@@ -42,7 +42,7 @@ The project includes several visualizations, such as:
 ## 📄 How to View the Project
 You can view the full notebook and presentation via the following links:
 - 🔗 [Notebook here](https://github.com/onenonlytw/ExploratoryDataAnalysis-Titanic/blob/main/Titanic_EDA.ipynb)
-- 📽️ [Presentation slides here](https://github.com/yourusername/titanic-eda/slides)
+- 📽️ [Presentation slides here](https://github.com/onenonlytw/ExploratoryDataAnalysis-Titanic/blob/main/TITANIC%20EDA.pdf)
 
 ## 🙋‍♀️ About Me
 Hi, I'm Hadriana Nurul Pertiwi, a participant of the Digital Skill Fair 38 program. This is one of my learning projects as I grow my data analytics skillset. Let’s connect on [LinkedIn](https://www.linkedin.com/in/hadriana-nurul-pertiwi)!
