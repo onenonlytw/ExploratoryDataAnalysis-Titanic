@@ -27,7 +27,7 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** to un
 ## 📁 Project Structure
 ```
 ├── Titanic_EDA.ipynb              # Jupyter Notebook file
-├── TITANIC EDA                    # EDA presentation slides (optional)
+├── TITANIC EDA                    # EDA presentation slides
 ├── titanic.xls                    # Dataset
 └── README.md                      # This file
 ```
@@ -41,7 +41,7 @@ The project includes several visualizations, such as:
 
 ## 📄 How to View the Project
 You can view the full notebook and presentation via the following links:
-- 🔗 [Notebook here](https://github.com/yourusername/titanic-eda/blob/main/titanic_eda.ipynb)
+- 🔗 [Notebook here](https://github.com/onenonlytw/ExploratoryDataAnalysis-Titanic/blob/main/Titanic_EDA.ipynb)
 - 📽️ [Presentation slides here](https://github.com/yourusername/titanic-eda/slides)
 
 ## 🙋‍♀️ About Me
